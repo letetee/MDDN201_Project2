@@ -1,0 +1,34 @@
+#h1{
+	font-size: 50px;
+	font-family: 'helvetica';
+	text-align: center;
+	color: white;
+}
+
+.location{
+	text-align: center;
+}
+
+#address{
+	font-size: 30px;
+	font-family: 'helvetica';
+	text-align: center;
+	color: white;
+}
+
+#lat{
+	font-size: 30px;
+	font-family: 'helvetica';
+	text-align: center;
+	color: white;
+}
+
+#lng{
+	font-size: 30px;
+	font-family: 'helvetica';
+	text-align: center;
+	color: white;
+}
+
+body {
+    background-image: url("sky.jpg");
